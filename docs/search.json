@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "index.html#methods",
-    "href": "index.html#methods",
-    "title": "9041 Assignment 2",
-    "section": "Methods",
-    "text": "Methods\nParticipants were recruited via the University of Edinburgh’s online learning portal and social media platforms, as well as through word-of-mouth. A flyer with a link to the study was shared on these platforms along with a standard message explaining the purpose of the study, the inclusion criteria (i.e., must be over the age of 18), and the contact details of one of the researchers.\nThe participants followed a link to the questionnaire, which was created using the Online Surveys platform. Participants responded to 3 questionnaires to measure 1) Attachment-related anxiety, 2) Social anxiety and 3) Self-esteem. They were also asked to report their gender, age group, relationship status and ethnicity.\n\nParticipants\nThere were 63 participants in the study. Table 1 presents the demographic information of the participants.\n\n\n\n\n\n\n\n\nTable 1 Participant Demographics\n\n\nGender\nWhite/Caucasian\nAsian/Asian British\nOther ethnic group\nPrefer not to say\n\n\n\n\nFemale\n17\n32\n0\n1\n\n\nMale\n6\n6\n1\n0\n\n\n\n\n\n\n\n\n\nMeasures\nThere are three scales used in this analysis:\n\nExperiences in Close Relationships Scale (shortened Attachment-Related Anxiety subscale). This subscale was shortened by only including the nine items that loaded most strongly on the Anxiety subscale in a factor analysis conducted by Sibley, Fischer & Liu (2005). This scale had a Cronbach’s alpha of 0.94.\nSocial Interaction Anxiety Scale, with a Cronbach’s alpha of 0.9.\nRosenberg Self-Esteem Scale, which had a Cronbach’s alpha of 0.85."
-  },
-  {
-    "objectID": "index.html#data-analysis-strategy",
-    "href": "index.html#data-analysis-strategy",
-    "title": "9041 Assignment 2",
-    "section": "Data Analysis Strategy",
-    "text": "Data Analysis Strategy\nItems were reverse-keyed in the scoring keys before calculating the scale scores. Items 5, 9, and 11 were reverse-keyed for Social Interaction Anxiety, while Items 2, 5, 6, 8, and 9 were reverse-keyed for Self-Esteem. No items were reverse-keyed for Attachment-Related Anxiety. Reverse-keyed items were indicated with a minus sign (-) in the scoring keys and were handled by scoreItems()."
-  },
-  {
-    "objectID": "index.html#results",
-    "href": "index.html#results",
-    "title": "9041 Assignment 2",
-    "section": "Results",
-    "text": "Results\nTable 2 summarizes the descriptive statistics and internal consistency of the three scales used in the study: Attachment-Related Anxiety, Social Interaction Anxiety, and Self-Esteem. The table presents the mean, median, standard deviation, range, and Cronbach’s alpha for each scale. The mean score for Attachment-Related Anxiety was 3.4. The mean score for Social Interaction Anxiety was 2.39, and the mean score for Self-Esteem was 2.23.\n\n\n\n\n\n\n\n\nTable 2 Summary Statistics for Attachment and Social Anxiety\n\n\nScale\nMean\nMedian\nSD\nRange\nCronbach's Alpha\n\n\n\n\nSocial Interaction Anxiety\n2.39\n2.30\n0.70\n3.00\n0.94\n\n\nAttachment-Related Anxiety\n3.40\n3.11\n1.62\n5.89\n0.90\n\n\nSelf-Esteem\n2.23\n2.20\n0.51\n2.20\n0.85\n\n\n\n\n\n\n\nTable 3 presents the descriptive statistics and internal consistency of the three scales for female participants only. The mean score for Attachment-Related Anxiety was 3.43, the mean score for Social Interaction Anxiety was 2.44, and the mean score for Self-Esteem was 2.24. Cronbach’s alpha values ranged from .86 to .94 across the three scales.\n\n\n\n\n\n\n\n\nTable 3 Summary Statistics for Female Participants\n\n\nScale\nMean\nMedian\nSD\nRange\nCronbach's Alpha\n\n\n\n\nAttachment-Related Anxiety\n3.43\n3.11\n1.71\n5.89\n0.94\n\n\nSocial Interaction Anxiety\n2.44\n2.38\n0.72\n3.00\n0.90\n\n\nSelf-Esteem\n2.24\n2.20\n0.53\n2.20\n0.86"
-  },
-  {
     "objectID": "bfi_index.html#methods",
     "href": "bfi_index.html#methods",
     "title": "9041 Assignment 2",
@@ -54,5 +33,26 @@
     "title": "9041 Assignment 2",
     "section": "",
     "text": "This assignment analyzes the Attachment and Social Anxiety dataset by Jacob Lincoln, Liesbeth Tip, and Sofia De La Fuente Garcia, focusing on attachment-related anxiety, social interaction anxiety, and self-esteem."
+  },
+  {
+    "objectID": "index.html#methods",
+    "href": "index.html#methods",
+    "title": "9041 Assignment 2",
+    "section": "Methods",
+    "text": "Methods\nParticipants were recruited via the University of Edinburgh’s online learning portal and social media platforms, as well as through word-of-mouth. A flyer with a link to the study was shared on these platforms along with a standard message explaining the purpose of the study, the inclusion criteria (i.e., must be over the age of 18), and the contact details of one of the researchers.\nThe participants followed a link to the questionnaire, which was created using the Online Surveys platform. Participants responded to 3 questionnaires to measure 1) Attachment-related anxiety, 2) Social anxiety and 3) Self-esteem. They were also asked to report their gender, age group, relationship status and ethnicity.\n\nParticipants\nThere were 63 participants in the study. Table 1 presents the demographic information of the participants.\n\n\n\n\n\n\n\n\nTable 1 Participant Demographics\n\n\nGender\nWhite/Caucasian\nAsian/Asian British\nOther ethnic group\nPrefer not to say\n\n\n\n\nFemale\n17\n32\n0\n1\n\n\nMale\n6\n6\n1\n0\n\n\n\n\n\n\n\n\n\nMeasures\nThere are three scales used in this analysis:\n\nExperiences in Close Relationships Scale (shortened Attachment-Related Anxiety subscale). This subscale was shortened by only including the nine items that loaded most strongly on the Anxiety subscale in a factor analysis conducted by Sibley, Fischer & Liu (2005). This scale had a Cronbach’s alpha of 0.94.\nSocial Interaction Anxiety Scale, with a Cronbach’s alpha of 0.9.\nRosenberg Self-Esteem Scale, which had a Cronbach’s alpha of 0.85."
+  },
+  {
+    "objectID": "index.html#data-analysis-strategy",
+    "href": "index.html#data-analysis-strategy",
+    "title": "9041 Assignment 2",
+    "section": "Data Analysis Strategy",
+    "text": "Data Analysis Strategy\nItems were reverse-keyed in the scoring keys before calculating the scale scores. Items 5, 9, and 11 were reverse-keyed for Social Interaction Anxiety, while Items 2, 5, 6, 8, and 9 were reverse-keyed for Self-Esteem. No items were reverse-keyed for Attachment-Related Anxiety. Reverse-keyed items were indicated with a minus sign (-) in the scoring keys and were handled by scoreItems()."
+  },
+  {
+    "objectID": "index.html#results",
+    "href": "index.html#results",
+    "title": "9041 Assignment 2",
+    "section": "Results",
+    "text": "Results\nTable 2 summarizes the descriptive statistics and internal consistency of the three scales used in the study: Attachment-Related Anxiety, Social Interaction Anxiety, and Self-Esteem. The table presents the mean, median, standard deviation, range, and Cronbach’s alpha for each scale. The mean score for Attachment-Related Anxiety was 3.4. The mean score for Social Interaction Anxiety was 2.39, and the mean score for Self-Esteem was 2.23.\n\n\n\n\n\n\n\n\nTable 2 Summary Statistics for Attachment and Social Anxiety\n\n\nScale\nMean\nMedian\nSD\nRange\nCronbach's Alpha\n\n\n\n\nSocial Interaction Anxiety\n2.39\n2.30\n0.70\n3.00\n0.94\n\n\nAttachment-Related Anxiety\n3.40\n3.11\n1.62\n5.89\n0.90\n\n\nSelf-Esteem\n2.23\n2.20\n0.51\n2.20\n0.85\n\n\n\n\n\n\n\nTable 3 presents the descriptive statistics and internal consistency of the three scales for female participants only. The mean score for Attachment-Related Anxiety was 3.43, the mean score for Social Interaction Anxiety was 2.44, and the mean score for Self-Esteem was 2.24. Cronbach’s alpha values ranged from .86 to .94 across the three scales.\n\n\n\n\n\n\n\n\nTable 3 Summary Statistics for Female Participants\n\n\nScale\nMean\nMedian\nSD\nRange\nCronbach's Alpha\n\n\n\n\nAttachment-Related Anxiety\n3.43\n3.11\n1.71\n5.89\n0.94\n\n\nSocial Interaction Anxiety\n2.44\n2.38\n0.72\n3.00\n0.90\n\n\nSelf-Esteem\n2.24\n2.20\n0.53\n2.20\n0.86"
   }
 ]
