@@ -54,12 +54,13 @@ anxiety.final.df<- anxiety.scored.df|>
   select(URN, gender_char,ethnicity_char,avg_SA,avg_AA,avg_SEst)
 
 summary <- anxiety.final.df |>
-  select(avg_AA, avg_SA, avg_SEst) |>
-  describe()
+  select(avg_SA, avg_AA, avg_SEst) |>
+  describe()|>
+  mutate(across(where(is.numeric), ~ round(.x, 2)))
 
 summary$Scales <- c(
-  "Attachment-Related Anxiety",
   "Social Interaction Anxiety",
+  "Attachment-Related Anxiety",
   "Self-Esteem")
 ```
 
@@ -154,7 +155,8 @@ female_sample_size <- nrow(anxiety.female.df)
 
 female.summary <- anxiety.female.df |>
   select(avg_AA, avg_SA, avg_SEst) |>
-  describe()
+  describe()|>
+  mutate(across(where(is.numeric), ~ round(.x, 2)))
 
 female.summary$Scales <- c(
   "Attachment-Related Anxiety",
